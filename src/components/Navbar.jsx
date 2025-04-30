@@ -21,7 +21,7 @@ const Navbar = ({ theme, toggleTheme }) => {
           animate={{ opacity: 1 }}
           className="text-xl font-bold gradient-text"
         >
-          Portfolio
+          KESHAV.
         </motion.div>
 
         <div className="hidden md:flex items-center gap-6">
